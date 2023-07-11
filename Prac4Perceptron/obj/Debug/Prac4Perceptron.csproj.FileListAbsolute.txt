@@ -1,0 +1,55 @@
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Prac4Perceptron\bin\Debug\Prac4Perceptron.exe.config
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Prac4Perceptron\bin\Debug\Prac4Perceptron.exe
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Prac4Perceptron\bin\Debug\Prac4Perceptron.pdb
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.AssemblyReference.cache
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.SuggestedBindingRedirects.cache
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Prac4Perceptron\obj\Debug\Prac4Perceptron.Form1.resources
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Prac4Perceptron\obj\Debug\Prac4Perceptron.Properties.Resources.resources
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.GenerateResource.cache
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.CoreCompileInputs.cache
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Prac4Perceptron\obj\Debug\Prac4Perceptron.exe
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Prac4Perceptron\obj\Debug\Prac4Perceptron.pdb
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\bin\Debug\Prac4Perceptron.exe.config
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\bin\Debug\Prac4Perceptron.exe
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\bin\Debug\Prac4Perceptron.pdb
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.AssemblyReference.cache
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.SuggestedBindingRedirects.cache
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.Form1.resources
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.Properties.Resources.resources
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.GenerateResource.cache
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.CoreCompileInputs.cache
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.exe
+A:\Carlosriv\Escritorio\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.pdb
+C:\Users\rdyan\OneDrive\Documentos\Noveno Semestre\Agentes Inteligentes Expertos\Prac4Perceptron\bin\Debug\Prac4Perceptron.exe.config
+C:\Users\rdyan\OneDrive\Documentos\Noveno Semestre\Agentes Inteligentes Expertos\Prac4Perceptron\bin\Debug\Prac4Perceptron.exe
+C:\Users\rdyan\OneDrive\Documentos\Noveno Semestre\Agentes Inteligentes Expertos\Prac4Perceptron\bin\Debug\Prac4Perceptron.pdb
+C:\Users\rdyan\OneDrive\Documentos\Noveno Semestre\Agentes Inteligentes Expertos\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.AssemblyReference.cache
+C:\Users\rdyan\OneDrive\Documentos\Noveno Semestre\Agentes Inteligentes Expertos\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.SuggestedBindingRedirects.cache
+C:\Users\rdyan\OneDrive\Documentos\Noveno Semestre\Agentes Inteligentes Expertos\Prac4Perceptron\obj\Debug\Prac4Perceptron.Form1.resources
+C:\Users\rdyan\OneDrive\Documentos\Noveno Semestre\Agentes Inteligentes Expertos\Prac4Perceptron\obj\Debug\Prac4Perceptron.Properties.Resources.resources
+C:\Users\rdyan\OneDrive\Documentos\Noveno Semestre\Agentes Inteligentes Expertos\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.GenerateResource.cache
+C:\Users\rdyan\OneDrive\Documentos\Noveno Semestre\Agentes Inteligentes Expertos\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\rdyan\OneDrive\Documentos\Noveno Semestre\Agentes Inteligentes Expertos\Prac4Perceptron\obj\Debug\Prac4Perceptron.exe
+C:\Users\rdyan\OneDrive\Documentos\Noveno Semestre\Agentes Inteligentes Expertos\Prac4Perceptron\obj\Debug\Prac4Perceptron.pdb
+A:\Carlosriv\Escritorio\Prac4Perceptron\Prac4Perceptron\bin\Debug\Prac4Perceptron.exe.config
+A:\Carlosriv\Escritorio\Prac4Perceptron\Prac4Perceptron\bin\Debug\Prac4Perceptron.exe
+A:\Carlosriv\Escritorio\Prac4Perceptron\Prac4Perceptron\bin\Debug\Prac4Perceptron.pdb
+A:\Carlosriv\Escritorio\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.AssemblyReference.cache
+A:\Carlosriv\Escritorio\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.SuggestedBindingRedirects.cache
+A:\Carlosriv\Escritorio\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.Form1.resources
+A:\Carlosriv\Escritorio\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.Properties.Resources.resources
+A:\Carlosriv\Escritorio\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.GenerateResource.cache
+A:\Carlosriv\Escritorio\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.CoreCompileInputs.cache
+A:\Carlosriv\Escritorio\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.exe
+A:\Carlosriv\Escritorio\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.pdb
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\Prac4Perceptron\bin\Debug\Prac4Perceptron.exe.config
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\Prac4Perceptron\bin\Debug\Prac4Perceptron.exe
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\Prac4Perceptron\bin\Debug\Prac4Perceptron.pdb
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.AssemblyReference.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.SuggestedBindingRedirects.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.Form1.resources
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.Properties.Resources.resources
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.GenerateResource.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.csproj.CoreCompileInputs.cache
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.exe
+A:\INSTITUTO POLITECNICO NACIONAL lll\9no semestre\Agentes Inteligentes\Practica 4 Perceptron\Prac4Perceptron\Prac4Perceptron\obj\Debug\Prac4Perceptron.pdb
